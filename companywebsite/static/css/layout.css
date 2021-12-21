@@ -21,10 +21,10 @@ body {
   height: 250px;
   text-align: center;
   font-size: 60px;
-  background-image: url("/static/img/banner1.jpg");
+  background-image: url("./download.png");
   background-size: 100% 100%;
   margin: 0px 0px 0px 0px;
-  padding-top: 150px;
+  padding-top: 190px;
   color: #16d1ae;
 }
 
